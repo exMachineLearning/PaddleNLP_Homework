@@ -10,5 +10,6 @@
 
 |作业题目|作业链接|网页链接|
 |-|-|-|
+|<a href="https://aistudio.baidu.com/aistudio/competition/detail/45" target="_blank">千言数据集：文本相似度比赛</a>作业|<a href="https://aistudio.baidu.com/aistudio/projectdetail/2006547" target="_blank">项目链接</a>|[链接](./homework/sim.html)|
 |<a href="https://aistudio.baidu.com/aistudio/competition/detail/50" target="_blank">千言数据集：情感分析比赛</a>之ChnSentiCorp&SE-ABSA16系列|<a href="https://aistudio.baidu.com/aistudio/projectdetail/2082460" target="_blank">项目链接</a>|[链接](./homework/C&S.html)|
 |<a href="https://aistudio.baidu.com/aistudio/competition/detail/50" target="_blank">千言数据集：情感分析比赛</a>之COTE系列|<a href="https://aistudio.baidu.com/aistudio/projectdetail/2087383" target="_blank">项目链接</a>|[链接](./homework/cote.html)|
