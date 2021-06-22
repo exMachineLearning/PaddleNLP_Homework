@@ -519,7 +519,7 @@ model = PointwiseMatching(pretrained_model)
     [2021-06-13 19:07:38,468] [    INFO] - Weights from pretrained model not used in ErnieModel: ['cls.predictions.layer_norm.weight', 'cls.predictions.decoder_bias', 'cls.predictions.transform.bias', 'cls.predictions.transform.weight', 'cls.predictions.layer_norm.bias']
 
 
-<font color='red' size=4>读[源码](https://gitee.com/paddlepaddle/PaddleNLP/blob/develop/paddlenlp/transformers/ernie/modeling.py)</font>
+<font color='red' size=4>读<a href="https://gitee.com/paddlepaddle/PaddleNLP/blob/develop/paddlenlp/transformers/ernie/modeling.py" target="_blank">源码</a></font>
 
 <font color='red' size=4>可见 ErnieForSequenceClassification就等价于PointwiseMatching（单塔模型）！！！！只不过PointwiseMatching输出是概率，反而不能和损失函数对应了！！！！</font>
 
