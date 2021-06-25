@@ -1091,3 +1091,5 @@ def evaluate(model, metric, data_loader):
 
 GitHub地址：[https://github.com/PaddlePaddle/PaddleNLP](https://github.com/PaddlePaddle/PaddleNLP)
 ![](https://ai-studio-static-online.cdn.bcebos.com/a0e8ca7743ea4fe9aa741682a63e767f8c48dc55981f4e44a40e0e00d3ab369e)
+
+[返回](/PaddleNLP_Homework)
