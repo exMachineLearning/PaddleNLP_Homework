@@ -14,3 +14,7 @@
 |<a href="https://aistudio.baidu.com/aistudio/competition/detail/50" target="_blank">千言数据集：情感分析比赛</a>之ChnSentiCorp&SE-ABSA16系列作业|<a href="https://aistudio.baidu.com/aistudio/projectdetail/2082460" target="_blank">项目链接</a>|[链接](./homework/C&S.html)|
 |<a href="https://aistudio.baidu.com/aistudio/competition/detail/50" target="_blank">千言数据集：情感分析比赛</a>之COTE系列作业|<a href="https://aistudio.baidu.com/aistudio/projectdetail/2087383" target="_blank">项目链接</a>|[链接](./homework/cote.html)|
 |<a href="https://aistudio.baidu.com/aistudio/competition/detail/46" target="_blank">千言数据集：信息抽取比赛</a>之DuEE_1_0作业|<a href="https://aistudio.baidu.com/aistudio/projectdetail/2111242" target="_blank">项目链接</a>|[链接](./homework/duee.html)|
+|<a href="https://aistudio.baidu.com/aistudio/competition/detail/46" target="_blank">千言数据集：信息抽取比赛</a>之DuIE_2_0作业|<a href="https://aistudio.baidu.com/aistudio/projectdetail/2116593" target="_blank">项目链接</a>|[链接](./homework/duie.html)|
+|<a href="https://aistudio.baidu.com/aistudio/competition/detail/49" target="_blank">千言数据集：阅读理解比赛</a>之Dureader_robust作业|<a href="https://aistudio.baidu.com/aistudio/projectdetail/2119034" target="_blank">项目链接</a>|[链接](./homework/robust.html)|
+|<a href="https://aistudio.baidu.com/aistudio/competition/detail/49" target="_blank">千言数据集：阅读理解比赛</a>之DuReader-yesno作业|<a href="https://aistudio.baidu.com/aistudio/projectdetail/2087758" target="_blank">项目链接</a>|[链接](./homework/yesno.html)|
+
